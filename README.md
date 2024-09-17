@@ -16,9 +16,7 @@ Feel free to browse my repositories and check out my projects. I’m always eage
 
 | Project Name     | Repository Link                               | Demo Link                                  |
 |------------------|-----------------------------------------------|--------------------------------------------|
-| **Book Bazaar**  | [GitHub Repo](https://github.com/username/book-bazaar) | [Demo](https://yourdomain.com/book-bazaar) |
-| **Weather App**  | [GitHub Repo](https://github.com/username/weather-app) | [Demo](https://yourdomain.com/weather-app) |
+| **Weather App**  | [GitHub Repo](https://github.com/Rimsha30laraib/Weather_App.git ) | [Demo](https://fascinating-toffee-197e1a.netlify.app/)|
 | **To-Do List**   | [GitHub Repo](https://github.com/username/todo-list) | [Demo](https://yourdomain.com/todo-list) |
-| **Game Project** | [GitHub Repo](https://github.com/username/game-project) | [Demo](https://yourdomain.com/game-project) |
 
 
