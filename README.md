@@ -17,6 +17,6 @@ Feel free to browse my repositories and check out my projects. I’m always eage
 | Project Name     | Repository Link                               | Demo Link                                  |
 |------------------|-----------------------------------------------|--------------------------------------------|
 | **Weather App**  | [GitHub Repo](https://github.com/Rimsha30laraib/Weather_App.git ) | [Demo](https://fascinating-toffee-197e1a.netlify.app/)|
-| **To-Do List**   | [GitHub Repo](https://github.com/username/todo-list) | [Demo](https://yourdomain.com/todo-list) |
+| **To-Do List**   | [GitHub Repo](https://github.com/Rimsha30laraib/To_Do_App.git) | [Demo](https://66d5ddec61a09e0c0a640e3d--coruscating-florentine-529adc.netlify.app/) |
 
 
