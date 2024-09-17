@@ -11,3 +11,14 @@ Welcome to my GitHub profile! I'm a **Computer Science student** at **Ubit**, di
 Feel free to browse my repositories and check out my projects. I’m always eager to learn and connect with others in the tech community!
 
 ---
+
+# React Projects
+
+| Project Name     | Repository Link                               | Demo Link                                  |
+|------------------|-----------------------------------------------|--------------------------------------------|
+| **Book Bazaar**  | [GitHub Repo](https://github.com/username/book-bazaar) | [Demo](https://yourdomain.com/book-bazaar) |
+| **Weather App**  | [GitHub Repo](https://github.com/username/weather-app) | [Demo](https://yourdomain.com/weather-app) |
+| **To-Do List**   | [GitHub Repo](https://github.com/username/todo-list) | [Demo](https://yourdomain.com/todo-list) |
+| **Game Project** | [GitHub Repo](https://github.com/username/game-project) | [Demo](https://yourdomain.com/game-project) |
+
+
