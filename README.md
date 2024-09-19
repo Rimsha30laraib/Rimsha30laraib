@@ -12,7 +12,8 @@ Feel free to browse my repositories and check out my projects. I’m always eage
 
 ---
 
-**🚀 React Projects**
+🚀 **React Projects**
+
 Here are some of the exciting React projects I've been working on. Feel free to explore the repositories and check out the live demos!
 
 | Project Name     | Repository Link                               | Demo Link                                  |
