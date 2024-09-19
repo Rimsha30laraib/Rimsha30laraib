@@ -18,5 +18,5 @@ Feel free to browse my repositories and check out my projects. I’m always eage
 |------------------|-----------------------------------------------|--------------------------------------------|
 | **Weather App**  | [GitHub Repo](https://github.com/Rimsha30laraib/Weather_App.git ) | [Demo](https://fascinating-toffee-197e1a.netlify.app/)|
 | **To-Do List**   | [GitHub Repo](https://github.com/Rimsha30laraib/To_Do_App.git) | [Demo](https://66d5ddec61a09e0c0a640e3d--coruscating-florentine-529adc.netlify.app/) |
-
+| **Quiz App**   | [GitHub Repo](https://github.com/Rimsha30laraib/To_Do_App.git) | [Demo](https://66ec6ccb2bb4564181cd1f89--jolly-axolotl-9fe63c.netlify.app/) |
 
