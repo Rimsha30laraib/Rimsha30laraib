@@ -11,7 +11,12 @@ Welcome to my GitHub profile! I'm a **Computer Science student** at **Ubit**, di
 Feel free to browse my repositories and check out my projects. I’m always eager to learn and connect with others in the tech community!
 
 ---
+🚀 **JavaScript Projects**
 
+Here are some of the exciting JavaScript projects I've been working on. Feel free to explore the repositories and check out the live demos!
+| **JavaScript Projects**   | [GitHub Repo](https://github.com/Rimsha30laraib/JavaScript_Projects )  |
+
+---
 🚀 **React Projects**
 
 Here are some of the exciting React projects I've been working on. Feel free to explore the repositories and check out the live demos!
