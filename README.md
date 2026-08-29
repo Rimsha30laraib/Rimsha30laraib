@@ -24,24 +24,28 @@ Multi-agent systems and RAG pipelines built with Google ADK, LangChain, and the 
 
 ---
 
-# 🎓 Final Year Project
+## 📝 Writing & Recognition
 
-Predictive Analysis of Cryptocurrency Market Trends | MERN Stack, AI
-
-Built a full-stack web app visualizing cryptocurrency market trends using real-time and historical Bitcoin data (2018–2023).
-BiLSTM price forecasting model achieved a Mean Absolute Error (MAE) of 0.70; XLNet sentiment model reached 97% average prediction confidence on Bitcoin-related Reddit data.
+- I also write about what I build - check out my [Medium article](https://medium.com/@rimshalarib33) 
+- 🏆 Ranked **841st of 12,885 participants** in the HackerRank Orchestrate AI Hackathon
+- Gen AI Academy Cohort 2 (Google Cloud / Hack2skill)
+- Kaggle: 5-Day Gen AI Intensive & 5-Day AI Agents Intensive
 
 ---
 
-📝 I also write about what I build - check out my [Medium article on RAG (Retrieval-Augmented Generation)](#https://medium.com/@rimshalarib33/i-built-a-rag-chatbot-for-free-no-openai-no-credit-card-no-excuses-94d6caa83b0a)
+## 🎓 Final Year Project
 
-🏆 Ranked **841st of 12,885 participants** in the HackerRank Orchestrate AI Hackathon · Gen AI Academy Cohort 2 (Google Cloud / Hack2skill) · Kaggle: 5-Day Gen AI Intensive & 5-Day AI Agents Intensive
+**Predictive Analysis of Cryptocurrency Market Trends** | MERN Stack, AI
+
+- Built a full-stack web app visualizing cryptocurrency market trends using real-time and historical Bitcoin data (2018–2023).
+- BiLSTM price forecasting model achieved a Mean Absolute Error (MAE) of 0.70; XLNet sentiment model reached 97% average prediction confidence on Bitcoin-related Reddit data.
 
 ---
 
 🚀 **JavaScript Projects**
 
 Here are some of the exciting JavaScript projects I've been working on. Feel free to explore the repositories and check out the live demos!
+
 | **JavaScript Projects**   | [GitHub Repo](https://github.com/Rimsha30laraib/JavaScript_Projects )  |
 
 ---
@@ -56,15 +60,16 @@ Here are some of the exciting React projects I've been working on. Feel free to 
 | **Weather App**  | [GitHub Repo](https://github.com/Rimsha30laraib/Weather_App.git ) | [Demo](https://fascinating-toffee-197e1a.netlify.app/)|
 | **To-Do List**   | [GitHub Repo](https://github.com/Rimsha30laraib/To_Do_App.git) | [Demo](https://66d5ddec61a09e0c0a640e3d--coruscating-florentine-529adc.netlify.app/) |
 | **Quiz App**   | [GitHub Repo](https://github.com/Rimsha30laraib/quiz_app.git) | [Demo](https://66ec6ccb2bb4564181cd1f89--jolly-axolotl-9fe63c.netlify.app/) |
+
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / LLM:** Google ADK · LangChain · Gemini API · Groq API · Prompt Engineering · RAG Pipelines · ChromaDB
-**Web:** React.js · Node.js · Express.js · REST APIs · Tailwind CSS
-**Languages:** Python · JavaScript · Java · C++
-**Databases:** MongoDB · MySQL
-**Tools:** Git · GitHub · Postman · VS Code · Kaggle
+- **AI / LLM:** Google ADK, LangChain, Gemini API, Groq API, Prompt Engineering, RAG Pipelines, ChromaDB
+- **Web:** React.js, Node.js, Express.js, REST APIs, Tailwind CSS
+- **Languages:** Python, JavaScript, Java, C++
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub, Postman, VS Code, Kaggle
 
 
 
