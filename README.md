@@ -33,7 +33,7 @@ BiLSTM price forecasting model achieved a Mean Absolute Error (MAE) of 0.70; XLN
 
 ---
 
-📝 I also write about what I build - check out my [Medium article on RAG (Retrieval-Augmented Generation)](#https://medium.com/@rimshalarib33/i-built-a-rag-chatbot-for-free-no-openai-no-credit-card-no-excuses-94d6caa83b0a) [Medium](https://medium.com/@rimshalarib33).
+📝 I also write about what I build - check out my [Medium article on RAG (Retrieval-Augmented Generation)](#https://medium.com/@rimshalarib33/i-built-a-rag-chatbot-for-free-no-openai-no-credit-card-no-excuses-94d6caa83b0a)
 
 🏆 Ranked **841st of 12,885 participants** in the HackerRank Orchestrate AI Hackathon · Gen AI Academy Cohort 2 (Google Cloud / Hack2skill) · Kaggle: 5-Day Gen AI Intensive & 5-Day AI Agents Intensive
 
